@@ -1,3 +1,2 @@
-# Learn-C-Programming-Language
-
-This is a repository for saving the results of learning C programming language.
+# LAU - C Programming Language
+A repository for exploration and mastery of the C programming language.
