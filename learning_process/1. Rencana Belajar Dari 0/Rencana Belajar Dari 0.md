@@ -1,6 +1,4 @@
-Baik, saya akan membantu kamu belajar bahasa pemrograman C dari nol hingga kamu menguasai semua aspeknya! Kita akan melangkah secara bertahap, mulai dari dasar hingga konsep tingkat lanjut. Karena ini adalah perjalanan panjang, saya akan menyusun rencana belajar yang terstruktur dan kita bisa mulai dari sana. Kamu bisa bertanya apa saja di setiap langkah, dan saya akan menjelaskan dengan sabar.
-
-### Rencana Belajar C dari Nol
+# Rencana Belajar C dari Nol
 1. **Pengenalan Dasar**
    - Apa itu C dan mengapa penting?
    - Mengatur lingkungan pengembangan (compiler seperti GCC, IDE seperti Code::Blocks atau VS Code).
@@ -73,5 +71,3 @@ int main() {
 1. Coba salin kode di atas ke editor (misalnya Code::Blocks atau online compiler seperti repl.it).
 2. Jalankan dan lihat hasilnya.
 3. Ubah teks dalam `printf` menjadi "Halo, [nama kamu]!" dan jalankan lagi.
-
-Setelah kamu mencoba, beri tahu saya hasilnya atau ajukan pertanyaan jika ada yang bingung! Kita akan lanjut ke variabel dan tipe data setelah ini. Siap?

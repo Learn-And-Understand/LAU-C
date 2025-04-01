@@ -1,17 +1,4 @@
-Bagus sekali, Aerell! Kamu sudah berhasil menjalankan kode percabangan dan menambahkan logika untuk mengecek angka genap atau ganjil. Hasilnya sesuai dengan yang diharapkan:
-```
-Masukkan sebuah angka: 5
-5 adalah angka positif.
-5 adalah ganjil.
-Masukkan sebuah angka: 4
-4 adalah angka positif.
-4 adalah genap.
-```
-Sekarang kamu sudah paham cara menggunakan `if`, `else if`, dan `else` untuk mengontrol alur program. Selanjutnya, kita akan masuk ke **Perulangan**, yang memungkinkan kita menjalankan kode berulang kali tanpa menulis ulang.
-
----
-
-### Perulangan di C
+# Perulangan di C
 Ada tiga jenis perulangan utama di C:
 1. **`for`**: Digunakan saat jumlah pengulangan sudah diketahui.
 2. **`while`**: Digunakan saat kondisi pengulangan lebih fleksibel.
@@ -59,6 +46,3 @@ int main() {
 2. Modifikasi program:
    - Ubah agar mencetak angka dari 10 sampai 1 (mundur).
    - Tambahkan perulangan kedua untuk mencetak tabel perkalian sederhana, misalnya tabel perkalian 5 (5x1 = 5, 5x2 = 10, dst sampai 5x10 = 50).
-3. Laporkan hasilnya.
-
-Setelah ini selesai, kita akan coba `while` dan `do-while`, lalu lanjut ke topik berikutnya! Beri tahu saya kalau ada pertanyaan.

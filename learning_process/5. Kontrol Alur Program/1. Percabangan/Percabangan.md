@@ -1,21 +1,4 @@
-Mantap, Aerell! Kamu sudah berhasil menjalankan kode dengan input `10` dan `3`, lalu memodifikasinya dengan input `20` dan `5` serta menambahkan operasi baru. Hasilnya benar-benar sesuai:
-```
-Masukkan dua angka: 20 5
-Penjumlahan: 20 + 5 = 25
-Pengurangan: 20 - 5 = 15
-Perkalian: 20 * 5 = 100
-Pembagian: 20 / 5 = 4
-Modulus: 20 % 5 = 0
-20 * 5 - 5 = 95
-Apakah 20 == 5? 0
-Apakah 20 > 5? 1
-Apakah 20 != 5? 1
-```
-Kamu sudah menguasai operator aritmatika dan relasional dengan baik. Sekarang kita akan masuk ke **Kontrol Alur Program**, yaitu cara membuat program mengambil keputusan atau mengulang sesuatu berdasarkan kondisi.
-
----
-
-### Kontrol Alur Program
+# Kontrol Alur Program
 Di C, kita bisa mengontrol alur program dengan:
 1. **Percabangan** (`if`, `else if`, `else`): Untuk membuat keputusan.
 2. **Perulangan** (`for`, `while`, `do-while`): Untuk mengulang kode.
@@ -66,5 +49,3 @@ int main() {
    - Tambahkan pengecekan apakah angka genap atau ganjil menggunakan operator modulus (`%`). (Petunjuk: Jika `angka % 2 == 0`, maka genap).
    - Cetak hasilnya, misalnya "5 adalah ganjil" atau "4 adalah genap".
 3. Eksperimen dengan beberapa angka dan lihat hasilnya.
-
-Setelah selesai, laporkan hasilnya atau tanyakan kalau ada yang kurang jelas. Kita akan lanjut ke perulangan setelah ini!

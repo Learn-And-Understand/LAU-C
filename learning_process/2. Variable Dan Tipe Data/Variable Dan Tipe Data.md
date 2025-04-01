@@ -1,8 +1,4 @@
-Bagus sekali, Aerell! Kamu sudah berhasil menjalankan program pertama dan melakukan modifikasi. Pakai VS Code juga pilihan yang keren, karena itu editor yang powerful untuk coding. Sekarang kita sudah punya fondasi, kita lanjut ke langkah berikutnya: **Variabel dan Tipe Data**. Ini adalah salah satu konsep dasar yang sangat penting di C.
-
----
-
-### Variabel dan Tipe Data
+# Variabel dan Tipe Data
 Di C, variabel adalah tempat untuk menyimpan data di memori. Sebelum digunakan, kamu harus mendeklarasikan tipe datanya. Berikut adalah beberapa tipe data dasar di C:
 
 - `int`: Untuk bilangan bulat (contoh: 5, -10, 100).
@@ -52,5 +48,3 @@ int main() {
    - Ganti `tinggi` dengan tinggi badan kamu.
    - Ganti `inisial` dengan inisial nama kamu.
 3. Tambahkan satu variabel baru, misalnya `int tanggal_lahir = [tanggal kamu];`, lalu cetak dengan `printf`.
-
-Setelah selesai, beri tahu saya hasilnya atau tanyakan kalau ada yang kurang jelas! Kita akan lanjut ke input dari pengguna setelah ini.

@@ -1,14 +1,4 @@
-Keren, Aerell! Kamu sudah berhasil memodifikasi kode dan menjalankannya dengan baik. Pakai data temanmu juga ide bagus untuk latihan. Outputnya sudah sesuai dengan yang diharapkan:
-```
-Umur saya: 19 tahun
-Tinggi saya: 160.0 cm
-Inisial saya: J
-```
-Sekarang kamu sudah paham cara mendeklarasikan variabel, memberi nilai, dan mencetaknya dengan `printf`. Kita akan naik level sedikit: **Mengambil Input dari Pengguna** menggunakan `scanf`. Ini akan membuat programmu interaktif, jadi pengguna bisa memasukkan data sendiri.
-
----
-
-### Mengambil Input dengan `scanf`
+# Mengambil Input dengan `scanf`
 Fungsi `scanf` digunakan untuk membaca input dari pengguna melalui terminal. Sintaks dasarnya:
 ```c
 scanf("format", &variabel);
@@ -58,5 +48,3 @@ int main() {
    - Tambahkan variabel baru, misalnya `int tahun_lahir`.
    - Minta input untuk `tahun_lahir` dengan `scanf`.
    - Cetak hasilnya dengan `printf`.
-
-Setelah selesai, laporkan hasilnya atau tanyakan kalau ada kendala. Kita akan lanjut ke **operator** setelah ini!

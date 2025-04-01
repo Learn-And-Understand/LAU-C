@@ -1,20 +1,4 @@
-Hebat, Aerell! Kamu sudah berhasil menjalankan program dengan input dan memodifikasinya dengan sempurna. Hasilnya sesuai harapan:
-```
-Masukkan umur kamu: 20
-Masukkan tinggi kamu (dalam cm): 175.5
-Masukkan inisial kamu: F
-Masukkan tahun lahir kamu: 2005
-
-Umur: 20 tahun
-Tinggi: 175.5 cm
-Inisial: F
-Tahun lahir: 2005
-```
-Sekarang kamu sudah menguasai cara mengambil input dengan `scanf` dan menampilkan output dengan `printf`. Kita akan lanjut ke **Operator**—alat penting untuk memanipulasi data dalam program.
-
----
-
-### Operator di C
+# Operator di C
 Operator adalah simbol yang digunakan untuk melakukan operasi pada variabel atau nilai. Ada beberapa jenis operator di C:
 
 1. **Operator Aritmatika**
@@ -75,5 +59,3 @@ int main() {
    - Hitung `a * b - 5` dan cetak hasilnya.
    - Tambahkan pengecekan relasional `a != b` dan cetak hasilnya (`1` atau `0`).
 3. Eksperimen dengan angka berbeda dan lihat bagaimana output berubah.
-
-Setelah selesai, beri tahu saya hasilnya atau tanyakan kalau ada yang bingung. Selanjutnya, kita akan masuk ke **Kontrol Alur Program** (if-else, dll.)!

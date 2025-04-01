@@ -1,32 +1,4 @@
-Keren, Aerell! Kamu sudah berhasil menjalankan perulangan `for` dan memodifikasinya dengan baik. Hasilnya sesuai dengan yang diminta:
-```
-Mencetak angka 1 sampai 5:
-10
-9
-8
-7
-6
-5
-4
-3
-2
-1
-5 * 1 = 5
-5 * 2 = 10
-5 * 3 = 15
-5 * 4 = 20
-5 * 5 = 25
-5 * 6 = 30
-5 * 7 = 35
-5 * 8 = 40
-5 * 9 = 45
-5 * 10 = 50
-```
-Sekarang kamu sudah paham cara kerja `for`. Mari kita lanjut ke jenis perulangan lain: **`while`** dan **`do-while`**.
-
----
-
-### Perulangan `while` dan `do-while`
+# Perulangan `while` dan `do-while`
 
 #### 1. Perulangan `while`
 Sintaks:
@@ -89,6 +61,3 @@ int main() {
 2. Modifikasi program:
    - Ubah bagian `while` agar hanya menerima angka positif (jika negatif, program berhenti).
    - Ubah bagian `do-while` agar pengguna bisa menebak sampai benar (bukan berhenti saat salah).
-3. Laporkan hasilnya.
-
-Setelah ini, kita akan lanjut ke **Fungsi** untuk membuat kode lebih terorganisir. Beri tahu saya kalau ada yang bingung!
